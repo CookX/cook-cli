@@ -60,20 +60,20 @@ xx | Array | xx
 - [x] `st -h` display help for command
 
 ## Templates
-- [x] [vue-template](https://github.com/zhanglingx/vue-template) `template` `web`
-- [ ] js-plugins-template `template` `plugins`
-- [ ] vue-components-template `template` `components`
-- [x] [nuxt-template](https://github.com/zhanglingx/nuxt-template) `template` `web`
-- [x] [angular-template](https://github.com/zhanglingx/angular-template) `template` `web`
-- [ ] mpvue-template `template` `wechat-miniapp`
-- [x] [wepy-template](https://github.com/zhanglingx/wepy-template) `template` `wechat-miniapp`
-- [ ] flutter-template `template` `native`
-- [ ] cordova-template `template` `hybird`
-- [x] [node-template](https://github.com/zhanglingx/node-template) `template` `node`
-- [x] [egg-template](https://github.com/zhanglingx/egg-template) `template` `node`
-- [x] [koa-template](https://github.com/zhanglingx/koa-template) `template` `node`
-- [ ] nest-template `template` `node`
-- [x] [springboot-template](https://github.com/zhanglingx/springboot-template) `template` `java`
-- [ ] java-package-template `template` `java`
-- [ ] beego-template `template` `go`
-- [x] [ci-template](https://github.com/zhanglingx/ci-template) `template` `php`
+- [x] [vue-template](https://github.com/zhanglingx/vue-template) `web`
+- [ ] js-plugins-template `plugins`
+- [ ] vue-components-template `components`
+- [x] [nuxt-template](https://github.com/zhanglingx/nuxt-template) `web`
+- [x] [angular-template](https://github.com/zhanglingx/angular-template) `web`
+- [ ] mpvue-template `wechat-miniapp`
+- [x] [wepy-template](https://github.com/zhanglingx/wepy-template) `wechat-miniapp`
+- [ ] flutter-template `native`
+- [ ] cordova-template `hybird`
+- [x] [node-template](https://github.com/zhanglingx/node-template) `node`
+- [x] [egg-template](https://github.com/zhanglingx/egg-template) `node`
+- [x] [koa-template](https://github.com/zhanglingx/koa-template) `node`
+- [ ] nest-template `node`
+- [x] [springboot-template](https://github.com/zhanglingx/springboot-template) `java`
+- [ ] java-package-template `java`
+- [ ] beego-template `go`
+- [x] [ci-template](https://github.com/zhanglingx/ci-template) `php`
